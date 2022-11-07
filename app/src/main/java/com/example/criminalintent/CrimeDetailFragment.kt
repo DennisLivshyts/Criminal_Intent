@@ -66,4 +66,5 @@ class CrimeDetailFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
+//companion object
 }

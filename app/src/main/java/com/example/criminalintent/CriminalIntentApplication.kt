@@ -1,4 +1,4 @@
-package com.example.criminalintent.database
+package com.example.criminalintent
 
 import android.app.Application
 
